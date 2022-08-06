@@ -12,11 +12,11 @@ I am a first year Ph.D. student at EPFL (École polytechnique fédérale de Laus
 
 Interests
 ======
-Computer System \\
-Computer Network \\
-Cloud Computing \\
-System Administration 
+- Computer Systems
+- Computer Network
+- Cloud Computing
+- System Administration 
 
 Education
 ======
-2018 - 2022 &emsp; BSc with honours in computer science and technology (also [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm)), Peking University
+- 2018 - 2022 &emsp; BSc with honours in computer science and technology (also [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm)), Peking University
