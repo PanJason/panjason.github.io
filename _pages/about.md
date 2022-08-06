@@ -20,4 +20,4 @@ Interests
 
 Education
 ======
-- 2018 - 2022 &ensp; BSc with honours in computer science and technology (also [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm)), Peking University
+- 2018 - 2022 &ensp; BSc with honours in EECS (also [Turing Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm)), Peking University
