@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yueyang Pan's homepage"
+title                    : "Yueyang Pan"
 title_separator          : "-"
 name                     : &name "Yueyang Pan"
 description              : &description "a Ph.D. student at EPFL"
