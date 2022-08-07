@@ -9,3 +9,5 @@ location: "Beijing, China"
 ---
 
 I served as TA in the computer networks (Honor Track) in the fall of 2021. Mainly, I gave a talk about the evolution of cellular networks and current operating status of 5G network.
+
+Here is the the link to [the course](https://soar.group/CompNets/Fall16/slides/Mod0_Overview.pdf)
