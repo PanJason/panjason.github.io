@@ -7,7 +7,7 @@ venue: 'IEEE Transactions on Parallel and Distributed Systems'
 citation: ' Zejia Fan,  Yuchen Gu,  Zhewen Hao,  Yueyang Pan,  Pengcheng Xu,  Yuxuan Yan,  Fangyuan Yang,  Zhenxin Fu,  Yun Liang, &quot;Critique of “MemXCT: Memory-Centric X-Ray CT Reconstruction With Massive Parallelization” by SCC Team From Peking University.&quot; IEEE Transactions on Parallel and Distributed Systems, 2021.'
 ---
 # Abstract
-In this paper, we conduct measurement of the operational 5G and LTE on the HSR. We reveal the key characteristics of 5G and LTE in extreme mobility in terms of throughput, RTT, loss rate, signal quality, and physical resource utilization. We further develop a taxonomy of handovers in both LTE and 5G and carry out the link-layer latency breakdown analysis. 
+In this paper, we reproduce a set of experiments to evaluate the overall performance and the strong scalability of MemXCT and mainly compared the results with Figs. 9 and 11 in the original paper. 
 
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=Critique+of+“MemXCT:+Memory+Centric+X+Ray+CT+Reconstruction+With+Massive+Parallelization”+by+SCC+Team+From+Peking+University){:target="_blank"} for full citation
