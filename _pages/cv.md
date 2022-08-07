@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology (Turing Class), EECS of Peking University, 2022
+* Ph.D in EDIC, EPFL, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.04 - 2022.08: Research Intern
+  * Alibaba XG Lab
+  * Duties included: Optimizing Ceph and NFS Ganesha. Performance Profiling of 5G VRAN
+  * Supervisor: Senior Engineer Rui Miao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2021.10 - 2022.03: Research Intern
+  * DSLab, EPFL
+  * Duties included: Implement 100G NIC Driver and NFOS Programming Framework.
+  * Supervisor: Professor George Candea
+
+* 2020.09 - 2022.08: Research Intern
+  * SOAR, PKU
+  * Dutied included: Conducting Measurement of Operational 5G and LTE on High Speed Rails.
+  * Supervisor: Professor Chenren Xu
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+* Python
+* Shell
+* Scala
+* CUDA Programming
+* Linux Programming
+* System Administration
 
 Publications
 ======
@@ -56,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Previouly lead the PKU SuperComputing Team
