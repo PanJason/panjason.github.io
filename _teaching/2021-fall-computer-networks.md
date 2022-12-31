@@ -3,7 +3,7 @@ title: "TA of Computer Networks (Honor Track)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2021-fall-computer-networks
-venue: "University 1, Department"
+venue: "Peking University, EECS"
 date: 2021-09-01
 location: "Beijing, China"
 ---
