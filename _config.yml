@@ -10,7 +10,7 @@ institution: École Polytechnique Fédérale de Lausanne (EPFL)
 institution_url: "https://www.epfl.ch/en/"
 email: yueyang.pan@epfl.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal academic website.
+  This is the personal website of Yueyang Pan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://panjason.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 office: "Office: INN 212, EPFL, Lausanne, Vaud, 1025"

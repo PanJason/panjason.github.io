@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Homepage - Yueyang Pan
 ---
 
 {% if site.data.bio.description %}
