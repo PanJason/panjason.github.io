@@ -1,0 +1,17 @@
+- degree: Ph.D. in Computer Science
+  institution: École Polytechnique Fédérale de Lausanne (EPFL)
+  period: Sep. 2022 - Present
+  advisor: Sanidhya Kashyap
+  advisor_url: "https://sanidhya.github.io/"
+  country: Switzerland
+  logo: /assets/images/epfl_logo.png
+
+- degree: B.S. in Computer Science
+  institution: Peking University
+  period: Sep. 2018 - Jul. 2022
+  minor: Finance
+  advisor: Chenren Xu
+  advisor_url: "https://soar.group/chenren/"
+  gpa: "GPA: 3.83/4.00, Rank: 12/188"
+  country: China
+  logo: /assets/images/pku_logo.png

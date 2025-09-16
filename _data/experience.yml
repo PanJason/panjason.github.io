@@ -1,0 +1,46 @@
+- position: Software Development Engineer Intern
+  team: Kernel Team
+  company: Meta
+  company_url: "https://www.meta.com/"
+  company_icon: /assets/images/meta_logo.png
+  location: London, UK
+  period: Jun. 2025 - Sep. 2025
+  description: "Working on memory allocation profiling and DAMON"
+  mentors: 
+    - name: "Usama Arif"
+      url: "https://www.linkedin.com/in/usama-arif-29449912a/"
+    - name: "Nikolay Beloborodov"
+      url: "https://www.linkedin.com/in/nikolay-beloborodov/"
+    - name: "Nathan Slingerland"
+      url: "https://www.linkedin.com/in/slingn/"
+    - name: "SJ Park"
+      url: "https://sjp38.github.io/"
+
+- position: Research Intern
+  team: Networking Group
+  company: Alibaba, DAMO Academy
+  company_url: "https://damo.alibaba.com/about?language=en"
+  company_icon: /assets/images/alibaba_logo.png
+  location: Hangzhou, China
+  period: Apr. 2022 - Aug. 2022
+  description: "Worked on NFS optimization and 5G virtualization"
+  mentors: 
+    - name: "Rui Miao"
+      url: "https://rmiao.github.io/"
+    - name: "Junchen Guo"
+      url: "https://tns.thss.tsinghua.edu.cn/sun/members/JunchenGuo/JunchenGuo.html"
+    - name: "Hao Nie"
+      url: "https://scholar.google.com/citations?user=fn9Mif4AAAAJ&hl=zh-CN"
+
+- position: Research Intern
+  company: EPFL, DSLab
+  company_url: "https://dslab.epfl.ch/"
+  company_icon: /assets/images/dslab_logo.png
+  location: Lausanne, Switzerland
+  period: Oct. 2021 - Jan. 2022
+  description: "Worked on NFOS"
+  mentors:
+    - name: "Lei Yan"
+      url: "https://dslab.epfl.ch/people/yan/"
+    - name: "George Candea"
+      url: "https://dslab.epfl.ch/people/candea/"

@@ -1,0 +1,124 @@
+- title: "Scalable Far Memory: Balancing Faults and Evictions"
+  authors: ["Yueyang Pan*", "Yash Lala*", "Musa Unal", "Yujie Ren", "Seung-seob Lee", "Abhishek Bhattacharjee", "Anurag Khandelwal", "Sanidhya Kashyap"]
+  venue: "SOSP"
+  year: 2025
+  links:
+    pdf: "assets/papers/mage.pdf"
+    code: "https://github.com/rs3lab/mage-artifact" 
+  available: "assets/images/artifacts_available.jpg"
+  functional: "assets/images/artifacts_functional.jpg"
+  reproducible: "assets/images/artifacts_reproducible.jpg"
+  bibtex: |
+    @inproceedings{pan2025sosp,
+      title = {Scalable Far Memory: Balancing Faults and Evictions},
+      author = {Pan, Yueyang and Lala, Yash and Unal, Musa and Ren, Yujie and Lee, Seung-seob and Shan, Yizhou and Bhattacharjee, Abhishek and Khandelwal, Anurag and Kashyap, Sanidhya},
+      booktitle = {Proceedings of the ACM Symposium on Operating Systems Principles (SOSP)},
+      year = {2025}
+    }
+
+
+- title: "Tolerate It if You Cannot Reduce It: Handling Latency in Tiered Memory"
+  authors: ["Musa Unal", "Vishal Gupta", "Yueyang Pan", "Yujie Ren", "Sanidhya Kashyap"]
+  venue: "HotOS XX"
+  year: 2025
+  links:
+    pdf: "assets/papers/linden.pdf"
+  bibtex: |
+    @inproceedings{unal2025hotos,
+      title = {Tolerate It if You Cannot Reduce It: Handling Latency in Tiered Memory},
+      author = {Unal, Musa and Gupta, Vishal and Pan, Yueyang and Ren, Yujie and Kashyap, Sanidhya},
+      booktitle = {Proceedings of the ACM SIGOPS 20th Workshop on Hot Topics in Operating Systems (HotOS XX)},
+      year = {2025}
+    }
+
+- title: "Transparent Multicore Scaling of Single-Threaded Network Functions"
+  authors: ["Lei Yan", "Yueyang Pan", "Diyu Zhou", "George Candea", "Sanidhya Kashyap"]
+  venue: "EuroSys"
+  year: 2024
+  links:
+    pdf: "assets/papers/nfos.pdf"
+    code: "https://github.com/dslab-epfl/nfos" 
+  bibtex: |
+    @inproceedings{yan2024eurosys,
+      title = {Transparent Multicore Scaling of Single-Threaded Network Functions},
+      author = {Yan, Lei and Pan, Yueyang and Zhou, Diyu and Candea, George and Kashyap, Sanidhya},
+      booktitle = {Proceedings of the European Conference on Computer Systems (EuroSys)},
+      year = {2024}
+    }
+  available: "assets/images/artifacts_available.jpg"
+  functional: "assets/images/artifacts_functional.jpg"
+  reproducible: "assets/images/artifacts_reproducible.jpg"
+
+- title: "Monarch: A Fuzzing Framework for Distributed File Systems"
+  authors: ["Tao Lyu", "Liyi Zhang", "Zhiyao Feng", "Yueyang Pan", "Yujie Ren", "Meng Xu", "Mathias Payer", "Sanidhya Kashyap"]
+  venue: "ATC"
+  year: 2024
+  links:
+    pdf: "assets/papers/monarch.pdf"
+    code: "https://github.com/rs3lab/Monarch" 
+  bibtex: |
+    @inproceedings{lyu2024atc,
+      title = {Monarch: A Fuzzing Framework for Distributed File Systems},
+      author = {Lyu, Tao and Zhang, Liyi and Feng, Zhiyao and Pan, Yueyang and Ren, Yujie and Xu, Meng and Payer, Mathias and Kashyap, Sanidhya},
+      booktitle = {Proceedings of the USENIX Annual Technical Conference (ATC)},
+      year = {2024}
+    }
+  available: "assets/images/artifacts_available.jpg"
+  functional: "assets/images/artifacts_functional.jpg"
+  reproducible: "assets/images/artifacts_reproducible.jpg"
+
+- title: "Ship Your Critical Section, Not Your Data: Enabling Transparent Delegation with TCLOCKS"
+  authors: ["Vishal Gupta", "Kumar Kartikeya Dwivedi", "Yugesh Kothari", "Yueyang Pan", "Diyu Zhou", "Sanidhya Kashyap"]
+  venue: "OSDI"
+  year: 2023
+  links:
+    pdf: "assets/papers/tclocks.pdf"
+    code: "https://github.com/rs3lab/TCLocks" 
+  bibtex: |
+    @inproceedings{gupta2023osdi,
+      title = {Ship Your Critical Section, Not Your Data: Enabling Transparent Delegation with TCLOCKS},
+      author = {Gupta, Vishal and Dwivedi, Kumar Kartikeya and Kothari, Yugesh and Pan, Yueyang and Zhou, Diyu and Kashyap, Sanidhya},
+      booktitle = {Proceedings of the USENIX Symposium on Operating Systems Design and Implementation (OSDI)},
+      year = {2023}
+    }
+  available: "assets/images/artifacts_available.jpg"
+  functional: "assets/images/artifacts_functional.jpg"
+  reproducible: "assets/images/artifacts_reproducible.jpg"
+
+- title: "The First 5G-LTE Comparative Study in Extreme Mobility"
+  authors: ["Yueyang Pan*", "Ruihan Li*", "Chenren Xu"]
+  venue: "SIGMETRICS"
+  year: 2022
+  links:
+    pdf: "assets/papers/5glte.pdf"
+  bibtex: |
+    @inproceedings{pan2022sigmetrics,
+      title = {The First 5G-LTE Comparative Study in Extreme Mobility},
+      author = {Pan, Yueyang and Li, Ruihan and Xu, Chenren},
+      booktitle = {ACM on Measurement and Analysis of Computing Systems (SIGMETRICS)},
+      year = {2022}
+    }
+
+- title: "Critique of “A parallel framework for constraint-based Bayesian network learning via Markov blanket discovery”"
+  authors: ["Jiaqi Si", "Junyi Guo", "Zhewen Hao", "Wenyang He", "Ruihan Li", "Yueyang Pan", "Zhenxin Fu", "Chun Fan"]
+  venue: "TPDS"
+  year: 2022
+  bibtex: |
+    @article{si2022tpds,
+      title = {Critique of “A parallel framework for constraint-based Bayesian network learning via Markov blanket discovery”},
+      author = {Si, Jiaqi and Guo, Junyi and Hao, Zhewen and He, Wenyang and Li, Ruihan and Pan, Yueyang and Fu, Zhenxin and Fan, Chun},
+      journal = {IEEE Transactions on Parallel and Distributed Systems (TPDS)},
+      year = {2022}
+    }
+
+- title: "Critique of “MemXCT: Memory-Centric X-Ray CT Reconstruction With Massive Parallelization”"
+  authors: ["Zejia Fan", "Yuchen Gu", "Zhewen Hao", "Yueyang Pan", "Pengcheng Xu", "Yuxuan Yan", "Fangyuan Yang", "Zhenxin Fu", "Yun Liang"]
+  venue: "TPDS"
+  year: 2021
+  bibtex: |
+    @article{fan2021tpds,
+      title = {Critique of “MemXCT: Memory-Centric X-Ray CT Reconstruction With Massive Parallelization”},
+      author = {Fan, Zejia and Gu, Yuchen and Hao, Zhewen and Pan, Yueyang and Xu, Pengcheng and Yan, Yuxuan and Yang, Fangyuan and Fu, Zhenxin and Liang, Yun},
+      journal = {IEEE Transactions on Parallel and Distributed Systems (TPDS)},
+      year = {2021}
+    }

@@ -1,0 +1,22 @@
+description: |
+  I am a Ph.D. candidate in [EDIC Computer and Communication
+  Sciences](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/)
+  at [EPFL](https://www.epfl.ch/en/), advised by [Prof. Sanidhya
+  Kashyap](https://sanidhya.github.io/). I received my B.S in Computer Science
+  with Summa cum laude from [Turing
+  Class](https://cfcs.pku.edu.cn/english/research/turing_program/introduction1/index.htm)
+  at Peking University. I also minored in Finance.
+
+
+  My research focuses on making existing data-intensive system software more
+  efficient in managing heterogeneous hardware resources (e.g. GPU, DPU, CXL,
+  RDMA) and diverse workloads. Specifically, I focus on two main themes. 
+  * **Scalability**: ensuring that system software can scale with growing thread
+  parallelism and resource capacity without introducing bottlenecks,
+  particularly in the memory subsystem. 
+  * **Flexibility**: enabling adaptive resource management strategies tailored to
+  varying hardware and workload, especially heterogeneous memory and storage
+  devices.
+
+  Beyond research, I also contribute frequently to open-source projects, such as
+  SGLang and Linux. Both of them are "kernel" related, in some sense.
