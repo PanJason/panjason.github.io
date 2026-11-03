@@ -1,3 +1,15 @@
+- position: Research Intern
+  team: Dots
+  company: Rednote
+  company_url: "https://www.rednote.com/"
+  company_icon: /assets/images/xiaohongshu_logo.png
+  location: Hangzhou, China
+  period: Jul. 2026 -
+  description: "Working on training-aware position independent KV cache and pretraining framework."
+  mentors: 
+    - name: "Qianchao Zhu"
+      url: "https://scholar.google.com/citations?user=S0I30-gAAAAJ&hl=zh-CN"
+
 - position: Software Development Engineer Intern
   team: Kernel Team
   company: Meta
