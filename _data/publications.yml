@@ -1,3 +1,23 @@
+- title: "CacheWeave: Learning to Recompute for Efficient Position-Independent KV Caching"
+  authors: ["Yueyang Pan", "Qianchao Zhu", "Yuliang Liu", "Teng Ma", "Sanidhya Kashyap"]
+  venue: "arXiv"
+  year: 2026
+  links:
+    pdf: "https://arxiv.org/pdf/2611.01735"
+  bibtex: |
+    @misc{pan2026cacheweave,
+      title = {CacheWeave: Learning to Recompute for Efficient Position-Independent KV Caching},
+      author = {Pan, Yueyang and Zhu, Qianchao and Liu, Yuliang and Ma, Teng and Kashyap, Sanidhya},
+      year = {2026},
+      eprint = {2611.01735},
+      archivePrefix = {arXiv}
+    }
+
+- title: "NanoMem: Iterative Evidence Synthesis for Temporal-Causal Reasoning in Agent Memory"
+  authors: ["Yueyang Pan", "Youliang Zhu", "Nikhil Sarda", "Haodong Zheng", "Antoine Bosselut", "Sanidhya Kashyap"]
+  venue: "Under submission to ICLR"
+  year: 2027
+
 - title: "Scalable Far Memory: Balancing Faults and Evictions"
   authors: ["Yueyang Pan*", "Yash Lala*", "Musa Unal", "Yujie Ren", "Seung-seob Lee", "Abhishek Bhattacharjee", "Anurag Khandelwal", "Sanidhya Kashyap"]
   venue: "SOSP"
