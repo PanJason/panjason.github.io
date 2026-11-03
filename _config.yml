@@ -41,6 +41,7 @@ exclude:
   - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - serve.sh
   - node_modules/
   - vendor/bundle/
   - vendor/cache/
